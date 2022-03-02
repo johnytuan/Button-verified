@@ -9,7 +9,7 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://www.dag.com.vn/sanpham/cua-smartwindow/",
+      "@id": "https://anphatbioplastics.com/tui-thuc-pham",
       "name": "✔ Đã xác minh> An Phat Bioplastic",
       "image": "https://anphatbioplastics.com/wp-content/uploads/2020/02/AAA-min.jpg"
     }
